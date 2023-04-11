@@ -1,5 +1,10 @@
 ## 😊几个仓库的网页地址
 
+🎀🎀
+最终整合的博客合集：https://wangsnowchen.github.io/WangSnowchen/
+🎀🎀
+
+
 🎉🎉🎉
 > 一个由Mdbook搭建的简单博客展示
 
