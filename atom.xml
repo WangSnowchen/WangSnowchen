@@ -6,7 +6,7 @@
   <link href="https://wangsnowchen.github.io/WangSnowchen/atom.xml" rel="self"/>
   
   <link href="https://wangsnowchen.github.io/WangSnowchen/"/>
-  <updated>2023-04-11T16:57:36.239Z</updated>
+  <updated>2023-04-14T16:10:08.524Z</updated>
   <id>https://wangsnowchen.github.io/WangSnowchen/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>夜曲编程先导课1-6思维导图</title>
+    <link href="https://wangsnowchen.github.io/WangSnowchen/2023/04/14/%E5%A4%9C%E6%9B%B2%E7%BC%96%E7%A8%8B%E5%85%88%E5%AF%BC%E8%AF%BE1-6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/"/>
+    <id>https://wangsnowchen.github.io/WangSnowchen/2023/04/14/%E5%A4%9C%E6%9B%B2%E7%BC%96%E7%A8%8B%E5%85%88%E5%AF%BC%E8%AF%BE1-6%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</id>
+    <published>2023-04-14T15:55:53.358Z</published>
+    <updated>2023-04-14T16:10:08.524Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>夜曲编程先导课1-6思维导图画廊</p><span id="more"></span><div class="justified-gallery"><p><img src="/WangSnowchen/img/yequ_python_001.png"><br><img src="/WangSnowchen/img/yequ_python_002.png"><br><img src="/WangSnowchen/img/yequ_python_003.png"><br><img src="/WangSnowchen/img/yequ_python_004.png"><br><img src="/WangSnowchen/img/yequ_python_005.png"><br><img src="/WangSnowchen/img/yequ_python_006.png"></p></div>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;夜曲编程先导课1-6思维导图画廊&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="编程" scheme="https://wangsnowchen.github.io/WangSnowchen/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="Python" scheme="https://wangsnowchen.github.io/WangSnowchen/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SSRDOG-Proxy(稳定chatGPT)</title>
+    <link href="https://wangsnowchen.github.io/WangSnowchen/2023/04/14/%E6%8E%A8%E8%8D%90%E4%B8%80%E6%AC%BE%E8%87%AA%E7%94%A8%E7%9A%84proxy%E8%BD%AF%E4%BB%B6/"/>
+    <id>https://wangsnowchen.github.io/WangSnowchen/2023/04/14/%E6%8E%A8%E8%8D%90%E4%B8%80%E6%AC%BE%E8%87%AA%E7%94%A8%E7%9A%84proxy%E8%BD%AF%E4%BB%B6/</id>
+    <published>2023-04-14T15:15:20.980Z</published>
+    <updated>2023-04-14T15:26:34.748Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>常用软件分享—0001</p><span id="more"></span><p>对于目前市面上很多的代理软件，有的是很便宜但是却不稳定。<br>有的稳定但是价格不菲。<br>今天要给大家分享的是在<a href="https://ghproxy.com/">GitHubProxy</a>上备受推荐的SSRDOG<br>因为域名经常会收到攻击，如果进不去就从GitHubproxy这里进去</p><p>我的邀请码<code>AS2FRoVY</code></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;常用软件分享—0001&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="软件" scheme="https://wangsnowchen.github.io/WangSnowchen/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="代理" scheme="https://wangsnowchen.github.io/WangSnowchen/tags/%E4%BB%A3%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>Gaffer-节点式操作软件</title>
